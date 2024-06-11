@@ -1,14 +1,12 @@
 
-### Apresentação:
+### Oi 👋, Eu sou o Rodrigo
   
-Olá, meu nome é Rodrigo, sou engenheiro Civil, cursando sistemas de informação, buscando transição para a área de Dados. 
+Sou engenheiro Civil, cursando sistemas de informação, buscando transição para a área de Dados. 
 Motivado pela crescente importância da análise de dados na engenharia e em outras indústrias, desenvolvi habilidades em análise e visualização de dados. 
 Desejo aplicar meu conhecimento técnico e analítico para resolver problemas complexos e gerar insights valiosos em projetos de dados.
 
 ### 📚 Projetos
 Bem-vindo ao my portfólio, onde eu apresento meus projetos pessoais.
-
-Objetivo:
 
 ### 🛠️ Ferramentas
 
@@ -19,8 +17,6 @@ Objetivo:
 • Desenvolvimento de dashboards no Power BI.
 
 • Análise e relatórios de dados usando Google Sheets e Excel e python.
-
-
 
 ### Sobre mim:
 
