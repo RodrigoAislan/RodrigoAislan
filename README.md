@@ -1,5 +1,5 @@
 
-  
+### Apresentação:
   
 Olá, meu nome é Rodrigo, sou engenheiro Civil, cursando sistemas de informação, buscando transição para a área de Dados. 
 Motivado pela crescente importância da análise de dados na engenharia e em outras indústrias, desenvolvi habilidades em análise e visualização de dados. 
@@ -10,13 +10,15 @@ Geração de relatórios e realização de análises de dados  usando SQL.
 Desenvolvimento de dashboards no Power BI.
 Análise e relatórios de dados usando Google Sheets e Excel.
 
-📚 Projetos
+### 📚 Projetos
 Bem-vindo ao my portfólio, onde eu apresento meus projetos.
 
-🛠️ Ferramentas
+### 🛠️ Ferramentas
 Linguagens: SQL, Python
 Database: SQL
 Visualização: Power BI
+
+### Sobre mim:
 
 - 👀 Tenho interesse em análise e ciência de dados, estatística e machine learning.
 - 🌱 Atualmente estou avançando minhas análises com utilização de python, além de computação em nuvem.
