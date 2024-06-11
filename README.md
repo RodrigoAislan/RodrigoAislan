@@ -1,7 +1,7 @@
 
   
+INTRODUÇÃO
   
-  INTRODUÇÃO
 Olá, meu nome é Rodrigo, sou engenheiro Civil, cursando sistemas de informação, buscando transição para a área de Dados. 
 Motivado pela crescente importância da análise de dados na engenharia e em outras indústrias, desenvolvi habilidades em análise e visualização de dados. 
 Desejo aplicar meu conhecimento técnico e analítico para resolver problemas complexos e gerar insights valiosos em projetos de dados.
