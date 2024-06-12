@@ -12,7 +12,7 @@ Bem-vindo ao meu portfólio, onde apresento meus projetos pessoais em análise d
 
 • Geração de relatórios e realização de análises de dados  usando SQL.
 
-• Desenvolvimento de dashboards no Power BI.
+• Desenvolvimento de dashboards para visualização de dados utilizando Power BI.
 
 • Análise e relatórios de dados usando Google Sheets e Excel e python.
 
