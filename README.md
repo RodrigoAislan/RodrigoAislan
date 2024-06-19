@@ -4,6 +4,7 @@
 Engenheiro civil em transição para a área de dados e atualmente cursando Sistemas de Informação. Sou motivado pela crescente importância da análise de dados na engenharia e em diversas outras indústrias. Desenvolvi habilidades em análise e visualização de dados e estou entusiasmado em aplicar meu conhecimento técnico e analítico para resolver problemas complexos e gerar insights valiosos.
 
 📚 Projetos
+
 Bem-vindo ao meu portfólio, onde apresento meus projetos pessoais em análise de dados. Explore meus repositórios para ver exemplos do meu trabalho.
 
 ### 🛠️ Ferramentas
