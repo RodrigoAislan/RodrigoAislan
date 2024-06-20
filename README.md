@@ -15,7 +15,10 @@ Bem-vindo ao meu portfólio, onde apresento meus projetos pessoais em análise d
 
 • Desenvolvimento de dashboards para visualização de dados utilizando Power BI.
 
-• Análise e relatórios de dados usando Google Sheets e Excel e python.
+• Análise e relatórios de dados usando Google Sheets e Excel.
+
+• Python, para datacleaning, análise exploratória de dados e geração de visuais.
+
 
 ### Sobre mim:
 
