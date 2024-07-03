@@ -26,6 +26,7 @@ Bem-vindo ao meu portfólio, onde apresento meus projetos pessoais em análise d
 - 🌱 Atualmente estou avançando minhas análises com utilização de python, além de computação em nuvem.
 - 💞️ Estou procurando colaborar em projetos de código aberto relacionados à análise de dados.
 - 📫 Como me encontrar: rodrigoaislaan@gmail.com
+- **Eu escrevo, de maneira mais detalhada, meus projetos no [medium](https://medium.com/@rodrigoaislaan)**
 - ⚡ Curiosidade: Sou engenheiro civil por formação e entusiasta de tecnologia por paixão, sempre procurando unir a engenharia e a tecnologia.
 
 <!---
